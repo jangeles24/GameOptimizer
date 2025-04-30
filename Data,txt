@@ -1,0 +1,134 @@
+Recv: Bed Position X: 0.00 Y: 0.00 Z: 1.05
+Recv: Bed Position X: 25.00 Y: 0.00 Z: 1.00
+Send: N19 G0 X50 Y0*37
+Recv: echo:endstops hit: Z: 0.90
+Recv: ok
+Send: N20 G30*40
+Recv: Bed Position X: 50.00 Y: 0.00 Z: 0.88
+Recv: ok
+Send: N21 G0 X75 Y0*41
+Recv: echo:endstops hit: Z: 0.86
+Recv: ok
+Send: N22 G30*42
+Recv: Bed Position X: 75.00 Y: 0.00 Z: 0.83
+Recv: ok
+Send: N23 G0 X100 Y0*24
+Recv: echo:endstops hit: Z: 0.80
+Recv: ok
+Send: N24 G30*44
+Recv: Bed Position X: 100.00 Y: 0.00 Z: 0.78
+Recv: ok
+Send: N25 G0 X125 Y0*25
+Recv: echo:endstops hit: Z: 0.77
+Recv: ok
+Send: N26 G30*46
+Recv: Bed Position X: 125.00 Y: 0.00 Z: 0.76
+Recv: ok
+Send: N27 G0 X150 Y0*25
+Recv: echo:endstops hit: Z: 0.74
+Recv: ok
+Send: N28 G30*32
+Recv: Bed Position X: 150.00 Y: 0.00 Z: 0.72
+Recv: ok
+Send: N29 G0 X0 Y25*36
+Recv: echo:endstops hit: Z: 0.70
+Recv: ok
+Send: N30 G30*41
+Recv: Bed Position X: 0.00 Y: 25.00 Z: 0.69
+Recv: ok
+Send: N31 G0 X25 Y25*26
+Recv: echo:endstops hit: Z: 0.68
+Recv: ok
+Send: N32 G30*43
+Recv: Bed Position X: 25.00 Y: 25.00 Z: 0.67
+Recv: ok
+Send: N33 G0 X50 Y25*26
+Recv: echo:endstops hit: Z: 0.65
+Recv: ok
+Send: N34 G30*45
+Recv: Bed Position X: 50.00 Y: 25.00 Z: 0.64
+Recv: ok
+Send: N35 G0 X75 Y25*27
+Recv: echo:endstops hit: Z: 0.63
+Recv: ok
+Send: N36 G30*47
+Recv: Bed Position X: 75.00 Y: 25.00 Z: 0.61
+Recv: ok
+Send: N37 G0 X100 Y25*42
+Recv: echo:endstops hit: Z: 0.60
+Recv: ok
+Send: N38 G30*33
+Recv: Bed Position X: 100.00 Y: 25.00 Z: 0.59
+Recv: ok
+Send: N39 G0 X125 Y25*35
+Recv: echo:endstops hit: Z: 0.58
+Recv: ok
+Send: N40 G30*46
+Recv: Bed Position X: 125.00 Y: 25.00 Z: 0.57
+Recv: ok
+Send: N41 G0 X150 Y25*46
+Recv: echo:endstops hit: Z: 0.56
+Recv: ok
+Send: N42 G30*44
+Recv: Bed Position X: 150.00 Y: 25.00 Z: 0.55
+Recv: ok
+Send: N43 G0 X0 Y50*42
+Recv: echo:endstops hit: Z: 0.54
+Recv: ok
+Send: N44 G30*42
+Recv: Bed Position X: 0.00 Y: 50.00 Z: 0.52
+Recv: ok
+Send: N45 G0 X25 Y50*27
+Recv: echo:endstops hit: Z: 0.51
+Recv: ok
+Send: N46 G30*40
+Recv: Bed Position X: 25.00 Y: 50.00 Z: 0.50
+Recv: ok
+Send: N47 G0 X50 Y50*27
+Recv: echo:endstops hit: Z: 0.49
+Recv: ok
+Send: N48 G30*38
+Recv: Bed Position X: 50.00 Y: 50.00 Z: 0.47
+Recv: ok
+Send: N49 G0 X75 Y50*18
+Recv: echo:endstops hit: Z: 0.46
+Recv: ok
+Send: N50 G30*47
+Recv: Bed Position X: 75.00 Y: 50.00 Z: 0.44
+Recv: ok
+Send: N51 G0 X100 Y50*40
+Recv: echo:endstops hit: Z: 0.43
+Recv: ok
+Send: N52 G30*45
+Recv: Bed Position X: 100.00 Y: 50.00 Z: 0.42
+Recv: ok
+Send: N53 G0 X125 Y50*45
+Recv: echo:endstops hit: Z: 0.41
+Recv: ok
+Send: N54 G30*43
+Recv: Bed Position X: 125.00 Y: 50.00 Z: 0.39
+Recv: ok
+Send: N55 G0 X150 Y50*41
+Recv: echo:endstops hit: Z: 0.38
+Recv: ok
+Send: N56 G30*41
+Recv: Bed Position X: 150.00 Y: 50.00 Z: 0.37
+Recv: ok
+Send: N57 G0 X0 Y75*40
+Recv: echo:endstops hit: Z: 0.36
+Recv: ok
+Send: N58 G30*39
+Recv: Bed Position X: 0.00 Y: 75.00 Z: 0.35
+Recv: ok
+Send: N59 G0 X25 Y75*17
+Recv: echo:endstops hit: Z: 0.33
+Recv: ok
+Send: N60 G30*44
+Recv: Bed Position X: 25.00 Y: 75.00 Z: 0.32
+Recv: ok
+Send: N61 G0 X50 Y75*24
+Recv: echo:endstops hit: Z: 0.31
+Recv: ok
+Send: N62 G30*46
+Recv: Bed Position X: 50.00 Y: 75.00 Z: 0.30
+Recv: ok
