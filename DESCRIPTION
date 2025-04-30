@@ -1,0 +1,14 @@
+Package: GameOptimizer
+Title: A package for analyzing and optimizing video game performance and strategies
+Version: 0.0.0.9000
+Authors@R: "James Angeles <jangeles@usf.edu> [aut, cre]"
+Description: This package provides tools for analyzing and optimizing strategies 
+    in video games, focusing on performance improvement, resource management, 
+    and decision-making. It offers utilities for visualizing player statistics, 
+    simulating different strategies, and analyzing gameplay to identify areas for 
+    improvement. GameOptimizer is designed for competitive players, game developers, 
+    and analysts to enhance gaming performance and experience.
+Depends: R (>= 3.1.2)
+Imports: dplyr, ggplot2, data.table, tidyr
+License: MIT
+LazyData: true
